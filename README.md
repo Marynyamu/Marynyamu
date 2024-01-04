@@ -1,6 +1,6 @@
-https://www.google.com/search?q=banner+for+software+engineer&sca_esv=595606774&tbm=isch&sxsrf=AM9HkKl1ugy9kBe6eGqfscnG6dL7LvrHGA:1704356275865&source=lnms&sa=X&ved=2ahUKEwjF35LzpcODAxVLS0EAHZpBCwYQ_AUoAXoECAIQAw&biw=1280&bih=863&dpr=1#imgrc=62ZPXxgy-rRHvM
+
 <h1 align="center">Hi 👋, I'm Mary Nyamu</h1>
-<h3 align="center">I am a Highly skilled and motivated software engineer with 2 years of experience in designing and developing scalable software applications. Proficient in multiple programming languages and frameworks, with a strong focus on building efficient and user-friendly solutions. I'm Dedicated to staying updated with emerging technologies and best practices in software development.</h3>
+<h5 align="center">I am a Highly skilled and motivated software engineer with 2 years of experience in designing and developing scalable software applications. Proficient in multiple programming languages and frameworks, with a strong focus on building efficient and user-friendly solutions. I'm Dedicated to staying updated with emerging technologies and best practices in software development.</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Elearning platform**
 
