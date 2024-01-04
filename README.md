@@ -25,7 +25,7 @@ software development.</p>
 
 </h4>
 
-![alxtranscript](Marynyamu.pdf)
+![alxtranscript](Marynyamu.PNG)
 
 ### Active Repositories
 
